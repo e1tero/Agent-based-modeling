@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\lab18\bin\Debug\lab18.exe.config
+C:\Users\User\source\repos\lab18\bin\Debug\lab18.exe
+C:\Users\User\source\repos\lab18\bin\Debug\lab18.pdb
+C:\Users\User\source\repos\lab18\obj\Debug\lab18.csprojAssemblyReference.cache
+C:\Users\User\source\repos\lab18\obj\Debug\lab18.Form1.resources
+C:\Users\User\source\repos\lab18\obj\Debug\lab18.Properties.Resources.resources
+C:\Users\User\source\repos\lab18\obj\Debug\lab18.csproj.GenerateResource.cache
+C:\Users\User\source\repos\lab18\obj\Debug\lab18.exe
+C:\Users\User\source\repos\lab18\obj\Debug\lab18.pdb
